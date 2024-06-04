@@ -177,7 +177,7 @@ function Pricing() {
         <input type="password" id="password" name="password" required>
     </div><br><br>
 
-        <button type="submit" id="log" onclick = Pricing() >Login</button>
+        <button type="submit" id="log" onclick = "Pricing()" >Login</button>
     </form>
 </section>`
 }
