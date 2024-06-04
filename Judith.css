@@ -234,6 +234,7 @@ header {
     list-style-type: none;
 }
 
+/* had challenges here */
 #lst::before {
     content: "\2713"; /* Unicode character for check mark */
     color: white;
