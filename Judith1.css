@@ -1,6 +1,6 @@
 body {
     /* background-color: rgba(53, 10, 53); */
-    background-image: url(./backg.png);
+    background-image: url(../Images/backg.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 2400px;
@@ -172,7 +172,7 @@ header {
 }
 
 .about {
-    background-image: url(./lad1.1.png);
+    background-image: url(../Images/lad1.1.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
