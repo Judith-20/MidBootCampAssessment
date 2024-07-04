@@ -29,8 +29,8 @@ function Home() {
         </div>
 
         <div id="start1">
-            <img id="start" src="../Images/L1.png" alt="img">
-            <img id="start1" src="../Images/lab1.png" style="background-color: transparent;">
+            <img id="start" src="./images/L1.png" alt="img">
+            <img id="start1" src="./images/lab1.png" style="background-color: transparent;">
         </div>
         </div>`
 }
@@ -58,7 +58,7 @@ function AboutUs() {
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero illo cumque non fugit pariatur corporis asperiores velit! Odio recusandae consequuntur totam tenetur. Et voluptatum architecto inventore quos amet. Fuga exercitationem laboriosam voluptates blanditiis. Dolore totam sequi odit fugiat repellat officia veritatis maiores at, eveniet illum incidunt, ipsa, voluptatibus animi esse.</p>
         
         
-            <button type="submit" id="btn3" onclick="Revert()">Start free today <img src="./rytarrow.jpg"></button>
+            <button type="submit" id="btn3" onclick="Revert()">Start free today <img src="./images/rytarrow.jpg"></button>
         
         </div>
         <p id="about2"></p>
@@ -83,23 +83,23 @@ function OurServices() {
     <div id="serv">
         
         <p>Custom Software Development<br><br>
-            <img src="../Images/serv.png">
+            <img src="./images/serv.png">
         </p>
 
         <p>Cloud Solutions<br><br>
-            <img src="../Images/serv1.png">
+            <img src="./images/serv1.png">
         </p>
 
         <p>Digital Marketing<br><br>
-            <img src="../Images/serv2.png">
+            <img src="./images/serv2.png">
         </p>
 
         <p>E-commerce Platforms<br><br>
-            <img src="../Images/serv3.png">
+            <img src="./images/serv3.png">
         </p>
 
         <p>24/7 Technical Support<br><br>
-            <img src="../Images/serv4.png">
+            <img src="./images/serv4.png">
         </p>
 
     </div>
